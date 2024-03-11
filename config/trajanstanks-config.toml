@@ -1,0 +1,66 @@
+
+#Config File for Trajan's Tank Mod
+["Panzer 2 Stats"]
+	"Panzer 2 Health (0-250)" = 80.0
+	"Panzer 2 Speed" = 0.17
+	"Panzer 2 Shot Cooldown (1 = 1/20 second)" = 60
+	"Panzer 2 Healing Amount (on right click)" = 10.0
+	"Panzer 2 Max Fuel (seconds)" = 600.0
+
+["Tiger Stats"]
+	"Tiger Health (0-250)" = 110.0
+	"Tiger Speed" = 0.12
+	"Tiger Shoot Cooldown (1 = 1/20 second" = 80
+	"Tiger Healing Amount (on right click)" = 10.0
+	"Tiger Max Fuel (seconds)" = 600.0
+
+["T-34 Stats"]
+	"T-34 Health (0-250)" = 95.0
+	"T-34 Speed" = 0.14
+	"T-34 Shoot Cooldown (1 = 1/20 second" = 70
+	"T-34 Healing Amount (on right click)" = 10.0
+	"T-34 Max Fuel (seconds)" = 600.0
+
+["Cruiser MK1 Stats"]
+	"Cruiser MK1 Health (0-250)" = 80.0
+	"Cruiser MK1 Speed" = 0.17
+	"Cruiser MK1 Shoot Cooldown (1 = 1/20 second" = 60
+	"Cruiser MK1 Healing Amount (on right click)" = 10.0
+	"Cruiser MK1 Max Fuel (seconds)" = 600.0
+
+["M4 Sherman Stats"]
+	"M4 Sherman Health (0-250)" = 95.0
+	"M4 Sherman Speed" = 0.14
+	"M4 Sherman Shoot Cooldown (1 = 1/20 second" = 70
+	"M4 Sherman Healing Amount (on right click)" = 10.0
+	"M4 Sherman Max Fuel (seconds)" = 600.0
+
+["Archer Stats"]
+	"Archer Health (0-250)" = 95.0
+	"Archer Speed" = 0.14
+	"Archer Shoot Cooldown (1 = 1/20 second" = 70
+	"Archer Healing Amount (on right click)" = 10.0
+	"Archer Max Fuel (seconds)" = 600.0
+
+["KV-2 Stats"]
+	"KV-2 Health (0-250)" = 110.0
+	"KV-2 Speed" = 0.12
+	"KV-2 Shoot Cooldown (1 = 1/20 second" = 80
+	"KV-2 Healing Amount (on right click)" = 10.0
+	"KV-2 Max Fuel (seconds)" = 600.0
+
+["Jagdpanther Stats"]
+	"Jagdpanther Health (0-250)" = 110.0
+	"Jagdpanther Speed" = 0.12
+	"Jagdpanther Shoot Cooldown (1 = 1/20 second" = 80
+	"Jagdpanther Healing Amount (on right click)" = 10.0
+	"Jagdpanther Max Fuel (seconds)" = 600.0
+
+["Pak-40 Stats"]
+	"Pak-40 Health" = 30.0
+	"Pak-40 Shot Cooldown (1 = 1/20 second)" = 75
+
+["Qf-6 Stats"]
+	"QF-6 Health" = 30.0
+	"QF-6 Shot Cooldown (1 = 1/20 second)" = 75
+
