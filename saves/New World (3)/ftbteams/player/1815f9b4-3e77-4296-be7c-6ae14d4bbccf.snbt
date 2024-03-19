@@ -1,0 +1,17 @@
+{
+	id: "1815f9b4-3e77-4296-be7c-6ae14d4bbccf"
+	type: "player"
+	player_name: "TransFemGaming"
+	ranks: {
+		1815f9b4-3e77-4296-be7c-6ae14d4bbccf: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TransFemGaming"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C4FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
